@@ -11,4 +11,4 @@ Bibliography
 
 A. Tsanas, A. Xifara: "Accurate quantitative estimation of energy performance of residential buildings using statistical machine learning tools", Energy and Buildings, Vol. 49, pp. 560-567, 2012
 
-Géron, Aurélien. Hands-on machine learning with Scikit-Learn and TensorFlow: concepts, tools, and techniques to build intelligent systems. OReilly, 2017.
+Géron, Aurélien. Hands-on Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. O'Reilly, 2017.
