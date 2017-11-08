@@ -1,4 +1,4 @@
-# Building-Energy-Performance
+# Building Energy Performance
 
 This repository contains a Jupyter notebook that was made to test out different machine learning techniques on an interesting data set. I first ran into this dataset on UC Irvine's machine learning repository. The dataset was created by Angeliki Xifara and was processed by Athanasios Tsanas.
 
@@ -9,6 +9,6 @@ The analysis carried out follows chapter two of Aurélien Géron's Hands-On Mach
 
 Bibliography
 
-A. Tsanas, A. Xifara: "Accurate quantitative estimation of energy performance of residential buildings using statistical machine learning tools", Energy and Buildings, Vol. 49, pp. 560-567, 2012
+A. Tsanas, A. Xifara: "Accurate Quantitative Estimation of Energy Performance of Residential Buildings using Statistical Machine Learning Tools", Energy and Buildings, Vol. 49, pp. 560-567, 2012
 
 Géron, Aurélien. Hands-on Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. O'Reilly, 2017.
